@@ -1,7 +1,6 @@
 1:"$Sreact.fragment"
-2:I[54322,["/diksoochi-pages/_next/static/chunks/0dbhjjzl8qfwv.js","/diksoochi-pages/_next/static/chunks/0uxty0927wf5w.js","/diksoochi-pages/_next/static/chunks/0lrluw~18zasx.js"],"default"]
-3:I[97367,["/diksoochi-pages/_next/static/chunks/0dbhjjzl8qfwv.js"],"OutletBoundary"]
+2:I[54322,["/diksoochi-pages/_next/static/chunks/0fsi8lw5utejl.js","/diksoochi-pages/_next/static/chunks/0d3tkj33oycf2.js","/diksoochi-pages/_next/static/chunks/0jf42bsh~bzg8.js","/diksoochi-pages/_next/static/chunks/0r9ldwh40mtlq.js","/diksoochi-pages/_next/static/chunks/0hl_dl5xim~a1.js"],"default"]
+3:I[97367,["/diksoochi-pages/_next/static/chunks/0fsi8lw5utejl.js","/diksoochi-pages/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-:HL["/diksoochi-pages/_next/static/chunks/0isor.7k-7rhi.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/diksoochi-pages/_next/static/chunks/0isor.7k-7rhi.css","precedence":"next"}],["$","script","script-0",{"src":"/diksoochi-pages/_next/static/chunks/0uxty0927wf5w.js","async":true}],["$","script","script-1",{"src":"/diksoochi-pages/_next/static/chunks/0lrluw~18zasx.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"xTtvMb7znNFKnCgYeIk9k"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/diksoochi-pages/_next/static/chunks/0jf42bsh~bzg8.js","async":true}],["$","script","script-1",{"src":"/diksoochi-pages/_next/static/chunks/0r9ldwh40mtlq.js","async":true}],["$","script","script-2",{"src":"/diksoochi-pages/_next/static/chunks/0hl_dl5xim~a1.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4qTQwKP2H1F_jEcVq843h"}
 5:null
